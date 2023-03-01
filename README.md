@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Samuel-prata
-- 👀 I’m interested in learn coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Eai, eu sou o Samuel Silvério!
+Atualmente sou estudante Fullstack.
 
-<!---
-Samuel-prata/Samuel-prata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Samuel-prata&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Samuel-prata/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Samuel-prata&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Samuel-prata/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-prata)](https://github.com/Samuel-prata/github-readme-stats)
