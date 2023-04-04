@@ -1,34 +1,28 @@
-Samuel Silvério - Dev Fullstack
-Sobre mim
-Olá, meu nome é Samuel Silvério e sou um desenvolvedor Fullstack formado no bootcamp da Generations Brasil! Tenho 21 anos e sou apaixonado por tecnologia. Sou muito motivado a aprender novas tecnologias e aplicá-las em projetos reais.
+###Samuel Silvério - Dev Fullstack <br> 
+<br>
+##Bem-vindo ao meu GitHub! <br>
+<br>
+Olá! Meu nome é Samuel Silvério e eu sou um desenvolvedor Fullstack apaixonado por tecnologia. Se você está procurando alguém com habilidades em HTML, CSS, JavaScript, Java, Spring, Docker, MySQL, React e Insomnia, você está no lugar certo!
 
-Tecnologias
-Aqui estão as principais tecnologias que eu domino:
+#O que você encontrará neste repositório: <br>
+Este repositório contém uma variedade de projetos que demonstram minhas habilidades em diferentes tecnologias e frameworks. Você encontrará projetos em React, Java, Spring, MySQL, Docker e muito mais! Cada projeto é uma oportunidade para você explorar minhas habilidades e conhecimentos em uma tecnologia específica.
 
-HTML e CSS
-HTML e CSS são as tecnologias fundamentais para o desenvolvimento de qualquer aplicação web. Eu tenho sólidos conhecimentos nessa área e estou sempre atualizado sobre as últimas tendências e melhores práticas.
-
-Spring e Java
-O Spring é um dos frameworks mais populares para o desenvolvimento de aplicativos corporativos em Java. Eu tenho conhecimentos sólidos sobre Spring e Java e posso desenvolver soluções escaláveis e de alta qualidade.
-
-C
-C é uma linguagem de programação de baixo nível que eu aprendi durante a faculdade. Embora eu não a use em projetos do dia-a-dia, eu ainda tenho habilidades sólidas nessa área e posso desenvolver soluções de baixo nível, se necessário.
-
-MySQL
-MySQL é um dos bancos de dados mais populares do mundo. Eu tenho sólidos conhecimentos em MySQL e posso projetar e gerenciar bancos de dados complexos e escaláveis.
-
-Docker
-Docker é uma plataforma de virtualização de contêineres que facilita o desenvolvimento e implantação de aplicativos. Eu tenho sólidos conhecimentos em Docker e posso configurar e gerenciar contêineres para uma ampla variedade de aplicações.
-
-React
-React é uma das bibliotecas mais populares para o desenvolvimento de interfaces de usuário em aplicações web. Eu tenho habilidades sólidas em React e posso desenvolver interfaces de usuário responsivas e de alta qualidade para suas aplicações web.
-
-Contato
-Se você quiser entrar em contato comigo, por favor sinta-se livre para me enviar um email ou conectar-se comigo no LinkedIn. Estou sempre aberto a novas oportunidades e desafios emocionantes.
+#Tecnologias que eu domino: <br>
+HTML e CSS: desenvolvo sites responsivos, bonitos e funcionais com HTML e CSS. <br>
+JavaScript: crio interações incríveis e dinâmicas para os usuários com JavaScript. <br>
+Java e Spring: desenvolvo aplicativos escaláveis e de alta qualidade com Java e Spring. <br>
+MySQL: projeto e gerencio bancos de dados complexos e escaláveis com MySQL. <br>
+Docker: configuro e gerencio contêineres para uma ampla variedade de aplicações com Docker. <br>
+React: desenvolvo interfaces de usuário responsivas e de alta qualidade com React. <br>
+Insomnia: testo e depuro minhas APIs com Insomnia. <br>
+Quer saber mais? <br>
+Se você quiser saber mais sobre mim ou sobre meus projetos, fique à vontade para me enviar um e-mail ou conectar-se comigo no LinkedIn. Estou sempre em busca de novas oportunidades e desafios emocionantes!
 
 Email: samuelsilveriodev@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/samuelsilverio/
+
+###Obrigado por visitar o meu GitHub!
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
