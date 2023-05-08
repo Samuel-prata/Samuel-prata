@@ -7,7 +7,7 @@ Olá! Meu nome é Samuel Silvério e eu sou um desenvolvedor Fullstack apaixonad
 ## O que você encontrará neste repositório: <br>
 Este repositório contém uma variedade de projetos que demonstram minhas habilidades em diferentes tecnologias e frameworks. Você encontrará projetos em React, Java, Spring, MySQL, Docker e muito mais! Cada projeto é uma oportunidade para você explorar minhas habilidades e conhecimentos em uma tecnologia específica.
 
-## Tecnologias que eu domino: <br>
+## Tecnologias que eu conheço: <br>
 **HTML e CSS**: desenvolvo sites responsivos, bonitos e funcionais com HTML e CSS. <br>
 **JavaScript**: crio interações incríveis e dinâmicas para os usuários com JavaScript. <br>
 **Java e Spring**: desenvolvo aplicativos escaláveis e de alta qualidade com Java e Spring. <br>
