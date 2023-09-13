@@ -3,6 +3,7 @@
 ## Bem-vindo ao meu GitHub! 
 
 Olá! Meu nome é Samuel Silvério e eu sou um desenvolvedor Fullstack apaixonado por tecnologia. Se você está procurando alguém com habilidades em HTML, CSS, JavaScript, Java, Spring, Docker, MySQL, React e Insomnia, você está no lugar certo!
+Atualmente atuo como instrutor da turma Back-End na Escola Vai na Web!
 
 ## O que você encontrará neste repositório: <br>
 Este repositório contém uma variedade de projetos que demonstram minhas habilidades em diferentes tecnologias e frameworks. Você encontrará projetos em React, Java, Spring, MySQL, Docker e muito mais! Cada projeto é uma oportunidade para você explorar minhas habilidades e conhecimentos em uma tecnologia específica.
