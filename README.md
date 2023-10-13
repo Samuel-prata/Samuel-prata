@@ -19,7 +19,7 @@ Este repositório contém uma variedade de projetos que demonstram minhas habili
 ### Quer saber mais? <br>
 Se você quiser saber mais sobre mim ou sobre meus projetos, fique à vontade para me enviar um e-mail ou conectar-se comigo no LinkedIn. Estou sempre em busca de novas oportunidades e desafios emocionantes!
 
-### Email: samueldevfull@gmail.com
+### Email: samuel.silverio001@hotmail.com
 
 ### LinkedIn: https://www.linkedin.com/in/samuel-silveriom/
 
