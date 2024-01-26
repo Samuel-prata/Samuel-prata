@@ -1,4 +1,4 @@
-# Samuel Silvério - Dev Fullstack 
+# Samuel Silvério - Dev Back-End 
 
 ## Bem-vindo ao meu GitHub! 
 
