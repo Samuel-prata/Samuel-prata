@@ -65,9 +65,11 @@ Este repositório contém uma variedade de projetos que demonstram minhas habili
 ### Quer saber mais? <br>
 Se você quiser saber mais sobre mim ou sobre meus projetos, fique à vontade para me enviar um e-mail ou conectar-se comigo no LinkedIn. Estou sempre em busca de novas oportunidades e desafios emocionantes!
 
-### Email: samuel.silverio001@gmail.com
-
-### LinkedIn: https://www.linkedin.com/in/samuel-silveriom/
+<div> 
+  <a href = "mailto: samuel.silverio001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-silveriom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 # Obrigado por visitar o meu GitHub!
 
