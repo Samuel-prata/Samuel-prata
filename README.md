@@ -11,7 +11,7 @@
 --- 
 ### 👨‍💼 
 
-De atleta, ao setor administrativo, a robótica e finalmente ao desenvolvimento. Passei por algumas migrações até encontrar minha paixão no mundo da programação, onde permaneço desde 2022. A primeira linguagem que estudei foi C, aos 14 anos, mas devido a situações externas, abandonei completamente a área. Meu segundo contato foi quando entrei como voluntário em uma equipe de robótica na instutuição em que cursava o técnico em administração e novamento, por problemas externos, me vi obrigado a deixar a área de lado mais uma vez. Após  
+De atleta, ao setor administrativo, a robótica e finalmente chegar encontrar minha paixão, o desenvolvimento.
 
 Atualmente trabalho como instrutor técnico na [Vai na Web](https://vainaweb.com.br/) como instrutor técnico.
 
