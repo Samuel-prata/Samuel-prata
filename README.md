@@ -11,7 +11,7 @@
 --- 
 ### 👨‍💼 
 
-De atleta, ao setor administrativo, a robótica e finalmente chegar encontrar minha paixão, o desenvolvimento.
+De atleta, ao setor administrativo, a robótica e finalmente encontrar minha paixão, o desenvolvimento.
 
 Atualmente trabalho como instrutor técnico na [Vai na Web](https://vainaweb.com.br/) como instrutor técnico.
 
