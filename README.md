@@ -72,6 +72,5 @@ Se quiser saber mais sobre meus projetos e experiências, fique a vontade para e
 
 ![Samuel-prata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-prata&theme=dracula&hide_border=true)
 
-![Samuel-prata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-prata&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 </div>
