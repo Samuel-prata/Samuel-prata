@@ -13,7 +13,7 @@
 
 De atleta, ao setor administrativo, a robótica e finalmente encontrar minha paixão, o desenvolvimento.
 
-Atualmente trabalho como instrutor técnico na [Vai na Web](https://vainaweb.com.br/) como instrutor técnico.
+Atualmente trabalho como instrutor técnico na escola [Vai na Web](https://vainaweb.com.br/).
 
 ---
 
@@ -47,7 +47,7 @@ Atualmente trabalho como instrutor técnico na [Vai na Web](https://vainaweb.com
 
 ## 💭 | O que você encontrará neste repositório: <br>
 
-Este repositório contém uma variedade de projetos que demonstram minhas habilidades em diferentes tecnologias e frameworks. Você encontrará projetos em React, Java, Spring, MySQL, Docker. Cada projeto é uma oportunidade para você explorar minhas habilidades e conhecimentos em uma tecnologia específica.
+Este repositório contém uma variedade de projetos que demonstram minhas habilidades em diferentes tecnologias e frameworks. Cada projeto é uma oportunidade para você explorar minhas habilidades e conhecimentos em uma tecnologia específica.
 
 
 
