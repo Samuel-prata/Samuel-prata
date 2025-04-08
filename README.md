@@ -26,7 +26,7 @@ Atualmente trabalho como instrutor técnico na escola [Vai na Web](https://vaina
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,html,css,react,eclipse,ubuntu,windows,vscode,python,flask,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,react,python,flask,mongodb" />
   </a>
 </p>
 </div>
